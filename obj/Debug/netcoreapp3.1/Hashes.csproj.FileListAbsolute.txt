@@ -4,7 +4,6 @@ C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\Hashes.runtimeconfig.
 C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\Hashes.runtimeconfig.dev.json
 C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\Hashes.dll
 C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\Hashes.pdb
-C:\Users\ADMIN\source\repos\Hashes\obj\Debug\netcoreapp3.1\Hashes.csprojAssemblyReference.cache
 C:\Users\ADMIN\source\repos\Hashes\obj\Debug\netcoreapp3.1\Hashes.AssemblyInfoInputs.cache
 C:\Users\ADMIN\source\repos\Hashes\obj\Debug\netcoreapp3.1\Hashes.AssemblyInfo.cs
 C:\Users\ADMIN\source\repos\Hashes\obj\Debug\netcoreapp3.1\Hashes.csproj.CoreCompileInputs.cache
@@ -33,3 +32,4 @@ C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\net
 C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\Hashes\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
