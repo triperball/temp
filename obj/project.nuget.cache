@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvZRyLIGJhNQRCsL20OlJEYKYyhZIkLL6Od2pbYY91i2metsGLwojWuHnvsZQkryjN8KDFsRNnk3kPcpOZIcAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\Hashes\\Hashes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
