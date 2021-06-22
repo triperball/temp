@@ -50,7 +50,7 @@
             },
             "EPPlus": {
               "target": "Package",
-              "version": "[5.7.0, )"
+              "version": "[4.5.3.3, )"
             },
             "Microsoft.Office.Interop.Excel": {
               "target": "Package",
